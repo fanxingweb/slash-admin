@@ -21,12 +21,6 @@
 
 **English** | [中文](./README.zh-CN.md)
 
-##  Sponsor
-<div style="display: flex; gap: 50px"> 
-  <img style="width:300px" src="https://d3george.github.io/github-static/pay/weixin.jpg" >
-  <img style="width:280px" src="https://d3george.github.io/github-static/pay/buymeacoffee.png" />
-</div>
-
 ## Preview
 + https://admin.slashspaces.com/
 
